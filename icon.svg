@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Politics subjective trainer">
+  <defs>
+    <linearGradient id="ps-bg" x1="8" y1="4" x2="56" y2="60" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c0392b"/>
+      <stop offset="1" stop-color="#7d1f18"/>
+    </linearGradient>
+    <linearGradient id="ps-page" x1="18" y1="18" x2="46" y2="48" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff7e6"/>
+      <stop offset="1" stop-color="#ffe2b8"/>
+    </linearGradient>
+  </defs>
+  <rect x="3" y="3" width="58" height="58" rx="15" fill="url(#ps-bg)"/>
+  <path d="M15 18.5c0-2.5 2-4.5 4.5-4.5H31v32H19.5A4.5 4.5 0 0 0 15 50.5v-32Z" fill="url(#ps-page)"/>
+  <path d="M49 18.5c0-2.5-2-4.5-4.5-4.5H33v32h11.5A4.5 4.5 0 0 1 49 50.5v-32Z" fill="#fffdf7" opacity=".9"/>
+  <path d="M32 14v32" stroke="#c0392b" stroke-width="1.6" stroke-linecap="round" opacity=".55"/>
+  <path d="M20 23h7M20 28h7M37 23h7M37 28h7" stroke="#c0392b" stroke-width="1.8" stroke-linecap="round" opacity=".7"/>
+  <path d="m32 33 2.2 4.5 5 .7-3.6 3.5.9 5-4.5-2.4-4.5 2.4.9-5-3.6-3.5 5-.7L32 33Z" fill="#ffd166" stroke="#8a5a00" stroke-width="1.1" stroke-linejoin="round"/>
+  <circle cx="50" cy="15" r="6.5" fill="#ffd166"/>
+  <path d="m50 10.8.9 2.7 2.8.1-2.2 1.7.8 2.7-2.3-1.6-2.3 1.6.8-2.7-2.2-1.7 2.8-.1.9-2.7Z" fill="#c0392b"/>
+</svg>
